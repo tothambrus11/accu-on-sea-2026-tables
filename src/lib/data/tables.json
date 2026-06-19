@@ -1,5 +1,17 @@
 {
-	"Table 1": ["Alice Johnson", "Bob Smith", "Charlie Brown"],
-	"Table 2": ["Diana Prince", "Edward Norton", "Fiona Apple"],
-	"Table 3": ["George Martin", "Hannah Lee", "Ian McKellen"]
+	"Table 1": ["Inbal Levi", "Matias Varnum", "andrew drakeford", "Konstantin Vasilyev", "Keith Stockdale", "Jon Bauman", "Nara Morrison", "Aditi Prasad"],
+	"Table 2": ["Matt Godbolt", "Simon Taft", "Sandor DARGO", "Klaas van Gend", "Braden Ganetsky", "Alan Ma", "Jędrzej Michalczyk", "Kicki Frisch"],
+	"Table 3": ["Kevlin Henney", "Artemiy Bulavin", "Robert Leahy", "Severin Tobler", "Kay Hicketts", "Duncan Rendall", "Robert Schimkowitsch", "Will Buchanan", "Alexander Kremer"],
+	"Table 4": ["Francis Glassborow", "Alex Dathskovsky", "Eran Gilad", "Robert C. Seacord", "Ambrus Tóth", "Gustas Janusonis", "Waffl3x", "Eryk Skalinski"],
+	"Table 5": ["Walter E Brown", "Carol Brown", "Adrien Devresse", "George Wigley", "Vladimir Vishnevskii", "Cameron Angus", "Peter Hrenka", "Floris Bob Elzelingen"],
+	"Table 6": ["Anthony Williams", "Peter Hirschbeck", "Aliaksandr Kharlamau", "Tom Hughes", "Roth Michaels", "Roman Derco", "Kathleen Baker", "Viet Le", "Samuel Obeng"],
+	"Table 7": ["Peter Muldoon", "Erik Lee", "Andrei Alexandrescu", "Robin Textor-Falconi", "Sejal", "Zephyr Serret Verbist", "Sarthak Sehgal", "Tamsin Shorter"],
+	"Table 8": ["Phil Nash", "Liea", "Violetta Nash", "Marios Katalanos", "Sherry Sontag", "Timur Doumler", "Robert Schmidt", "David Olsen"],
+	"Table 9": ["Mathieu Ropert", "Christopher Creutzig", "Lara Bailey", "Arnaud Desitter", "Lucian Radu Teodorescu", "Josko Nikolic", "Steve Sorkin", "Oleksandra Tmenova"],
+	"Table 10": ["Victor Ciura", "Balland Quentin", "Anders Schau Knatten", "Edward Boggis-Rolfe", "Nevin \":-)\" Liber", "Cassio Neri", "Aimee Baggaley", "Dom Davis"],
+	"Table 11": ["Tristan Brindle", "Dmitry Strizhevsky", "Bernhard Merkle", "Julius Zukauskas", "Prithvi Okade", "Ayaz Salikhov", "Florian Gilcher", "Guy Davidson"],
+	"Table 12": ["John Lakos", "Bas Kruit", "Laurie Kirk", "Iwona Kotlarska", "Kevin B. Carpenter", "Austin Morton", "Callum Piper", "Arman Absalan", "Michael Hubatka"],
+	"Table 13": ["Jason Turner", "Charles Collicutt", "Shreyansh Jain", "Ciaran Woodward", "Tina Ulbrich", "Matija Kranjcec", "Dan Katz", "Andrei Popescu"],
+	"Table 14": ["Dietmar Kühl", "Michael Klymyshyn", "Björn Fahller", "Christian Schulte zu Berge", "Taylor Cramer", "Vilas Chitrakaran", "Hubert Liberacki", "Andreas Schätti"],
+	"Table 15": ["Hana Dusíková", "Maximilian Schlögel", "Amir Kirsh", "Babak Khataee", "Tony Van Eerd", "Andreas Schalk", "Johannes Kalmbach", "Pete Goodliffe"]
 }
